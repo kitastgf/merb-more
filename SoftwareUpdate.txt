@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Fix docker.yaml double-quote version bug (#7452)
