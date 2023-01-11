@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
