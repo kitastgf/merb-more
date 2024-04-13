@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
